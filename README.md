@@ -29,6 +29,9 @@ A simple, responsive calculator built using **HTML**, **CSS**, and **JavaScript*
 - CSS3
 - Vanilla JavaScript (No libraries)
 
+## Live Preview
+[Click here for live demo](https://calcify-basic.netlify.app/)
+
 ## 📜 License
 
 This project is open-source and free to use for learning or development.
